@@ -12,6 +12,8 @@ def get_raw_data():
 	with open('train_image.pkl', 'rb') as f:
 		train_data = pickle.load(f)
 
+	print(np.unique(np.asarray(train_label)))
+
 	return (train_label, np.asarray(train_data))
 
 def get_visuals(train_data):
@@ -36,11 +38,12 @@ def get_visuals(train_data):
 def get_normalized_data(train_data):
 
 	mean = np.mean(train_data, axis=0)
+	print(np.mean(train_data))
 	plt.imshow(mean.reshape((28, 28)))
 	plt.show()
 
 	std = np.std(train_data, axis=0)
-
+	print(np.std(train_data))
 	norm_train_data = train_data - mean
 	norm_train_data /= std
 
@@ -57,6 +60,6 @@ def get_normalized_data(train_data):
 if __name__ == '__main__':
 	l, t = get_raw_data()
 
-	get_visuals(t)
+	#get_visuals(t)
 
-	get_normalized_data(t)
+	#get_normalized_data(t)
