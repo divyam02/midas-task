@@ -1,2 +1,5 @@
 
 *.pkl
+auth.txt
+*.jsonl
+Python_problem/dump.txt
