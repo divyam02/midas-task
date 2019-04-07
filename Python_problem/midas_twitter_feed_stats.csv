@@ -1,0 +1,167 @@
+,text,date,favorite_count,retweets
+0,"Other queries: ""none of the Tweeter Apis give the correct count of favorites tested for most of them, all give the wrong count. same is true for retweet. this mostly happens if the no. of likes, retweet is very large. So, what shld be done?""
+Ans: Just use the count given by API.",Sun Apr 07 06:55:19 +0000 2019,1,1
+1,"Other queries: ""do we have to make two different repositories on Github as ""Python Problem"" and ""CV Problem"". Or we have to make a single repository named ""root"" and upload our code in that?""
+And: Have one repository of any name which has two folders. One python and other cv/nlp",Sun Apr 07 06:53:38 +0000 2019,1,0
+2,"Other queries: ""If using Twitter api, it does not include any information about images in the response objects sent, so how do we retrieve the image info as requested?""
+Ans: U have to use twitter api or wrappers based on it like tweepy.
+Twitter API does provide image information.",Sun Apr 07 05:32:27 +0000 2019,3,1
+3,"Response to some queries asked by students on @midasIIITD task.
+What does the line ""dump the responses into JSONlines file"" mean?
+It means you have to dump the response into a jsonlines file. jsonlines is a file extension more popularly know as .jsonl
+#MIDAS #Research #Internship",Sun Apr 07 05:29:40 +0000 2019,6,1
+4,RT @kdnuggets: Top 8 #Free Must-Read #Books on #DeepLearning #KDN https://t.co/1DtlN91Yjj,Sat Apr 06 17:11:29 +0000 2019,0,2
+5,"@nupur_baghel @PennDATS Congratulation @nupur_baghel on getting admit from @PennDATS. 
+She got 5/10 acceptance. She has worked at @midasIIITD on the #kikichallenge problem. We are glad to know that it inspired her to pursue further research. We wish her a great success ahead. 
+#MSc #DataScience #UPenn https://t.co/2daLOHGPBU",Sat Apr 06 16:43:27 +0000 2019,14,3
+6,We have emailed the task details to all candidates who have applied to @midasIIITD internship through IIITD portal. Kindly check your spam folder if you have not received the email. We will evaluate all solutions received until April 10 midnight and announce results by April 14.,Fri Apr 05 16:08:37 +0000 2019,10,1
+7,"RT @rfpvjr: Our NAACL paper on polarization in language on Twitter surrounding mass shootings is up on arXiv! https://t.co/g7wiegXxDg
+This…",Fri Apr 05 04:05:11 +0000 2019,0,16
+8,RT @kdnuggets: Effective Transfer Learning For NLP https://t.co/Z1m0AzlfVv https://t.co/ccX4Uhxjn8,Fri Apr 05 04:04:43 +0000 2019,0,10
+9,RT @stanfordnlp: What’s new in @Stanford CS224N Natural Language Processing with Deep Learning for 2019? Question answering—1D CNNs—subword…,Wed Apr 03 18:31:53 +0000 2019,0,58
+10,"RT @DeepMindAI: Today we're releasing a large-scale extendable dataset of mathematical questions, for training (and evaluating the abilitie…",Wed Apr 03 17:04:32 +0000 2019,0,848
+11,"RT @ylecun: Congratulations Jitendra Malik !
+
+Awards are raining on FAIRies these days... https://t.co/1WNcSeQLZe",Wed Apr 03 09:03:40 +0000 2019,0,16
+12,"RT @IIITDelhi: Another chance to take admission in the Ph.D. program in IIIT Delhi. 
+Admissions open for Ph.D. program mathematics 
+
+Log on…",Wed Apr 03 07:46:02 +0000 2019,0,4
+13,"Dear @midasIIITD internship candidates who have submitted their solutions to the task, we have sent you an email regarding your results. 
+
+Students who have applied through @IIITDelhi, you will soon be contacted on the internship task. 
+
+#MIDAS #Summer #Research #Internship",Tue Apr 02 04:20:13 +0000 2019,8,1
+14,"Looking forward to your paper submission to @IEEEBigMM19. 
+
+Important Dates:
+Regular Paper: 11:59pm PST, May 10, 2019     
+Short Paper: 11:59pm PST, May 10, 2019   
+Industry Paper: 11:59pm PST, May 10, 2019  
+Demonstration Paper: 11:59pm PST, May 10, 2019
+
+Contact TPC @RatnRajiv",Tue Apr 02 02:44:54 +0000 2019,5,1
+15,RT @ngrams: Reproducibility in multimedia research in @sigmm records https://t.co/hOyMxtmy7A Plus reminder to past-year authors: Today 1 Ap…,Tue Apr 02 02:35:44 +0000 2019,0,7
+16,"Online application for https://t.co/DJFDrQsHZP. Admission 2019 at @IIITDelhi has been open
+
+Log on to know more and apply: https://t.co/w7d2UMTVh7
+
+Last Date: 18th April 2019
+
+#MTech #IIITD #Admission",Mon Apr 01 06:53:08 +0000 2019,7,2
+17,RT @ACMMM19: A final reminder of the Reproducibility Track: Authors of 2017 and 2018 papers are invited to submit a short reproducibility p…,Sun Mar 31 10:21:24 +0000 2019,0,10
+18,RT @isarth23: Thanks for the support and help @debanjanbhucs @RatnRajiv and @midasIIITD. It was a great learning experience! Glad to be par…,Fri Mar 29 19:43:24 +0000 2019,0,2
+19,"Since SemEval-2019 will be held June 6-7, 2019 in Minneapolis, USA, collocated with NAACL-HLT 2019, it will great students for @midasIIITD students to attend the conference and learn from worldclass researchers. +@aggarwal_kartik",Fri Mar 29 17:16:40 +0000 2019,9,1
+20,"+@aggarwal_kartik.
+Congrats! Wish you many more success.",Fri Mar 29 17:04:30 +0000 2019,2,0
+21,"RT @aggarwal_kartik: Our work (@midasIIITD ) accepted at SemEval 2019 at @NAACLHLT : ""MIDAS at SemEval-2019 Task 9: Suggestion Mining from…",Fri Mar 29 17:03:29 +0000 2019,0,1
+22,"Congratulations! @midasIIITD team, @isarth23 @LaibaMehnaz @Simcyy @debanjanbhucs @RatnRajiv @the_dhumketu for getting two papers accepted at SemEval 2019. 
+Many thanks to our collaborators Haimin and Karan for their help.
+
+#NLP #Research #SocialMedia #Analytics #DeepLearning",Fri Mar 29 17:02:24 +0000 2019,9,1
+23,"@EEMLcommunity @radamihalcea too many deadlines coming, @ACMMM19 @IEEEBigMM19 @EEMLcommunity",Fri Mar 29 05:35:22 +0000 2019,0,0
+24,"RT @stanfordnlp: CS224N Natural Language Processing with Deep Learning 2019 @Stanford course videos by @chrmanning, @abigail_e_see &amp; guests…",Thu Mar 28 16:55:01 +0000 2019,0,714
+25,RT @ylecun: Learn PyTorch by running on Google GPUs for free. https://t.co/pt038TMnWR,Thu Mar 28 16:54:37 +0000 2019,0,157
+26,"Dr. Vineeth N Balasubramanian will present a Talk on ""Towards Explainable Deep Learning: Adding Why to What"" on 28th Mar 2019 (Thursday). Please find the details below:
+
+Time: 4 PM
+Venue: A007, R&amp;D Block
+
+#ResearchTalk #Multimedia #Explainable #DeepLearning https://t.co/Cyz7F5f29I",Wed Mar 27 16:09:09 +0000 2019,4,1
+27,"RT @ylecun: I am extremely honored to be the recipient of the 2018 ACM A.M. Turing Award, and absolutely delighted to be sharing it with my…",Wed Mar 27 11:53:40 +0000 2019,0,1545
+28,"Thanks to all shortlisted candidates for submitting their solutions for @midasIIITD internship task 2019. We are currently evaluating all solutions and will try to get back to all candidates in a week time. 
+
+#MIDAS #Summer #Research #Internship",Tue Mar 26 18:12:27 +0000 2019,5,1
+29,"@IEEEBigMM19 @ACMMM19 and 6 days left for workshop proposal in @IEEEBigMM19.
+
+Contact @cchatto for any query.",Tue Mar 26 05:54:49 +0000 2019,2,0
+30,"RT @IEEEBigMM19: Hurry Up!
+6 Days left for Abstract Submission in @ACMMM19 
+45 Days left for Regular Paper Submission in @IEEEBigMM19 .
+
+He…",Tue Mar 26 05:50:10 +0000 2019,0,3
+31,"Congratulations @midasIIITD students Simra Shahid @Simcyy and Nilay Shrivastava @NilayShri on getting selected for a research internship at Adobe in this summer. 
+
+#MIDAS #Achievment #Research #Summer #Internship https://t.co/WdF663EB5y",Mon Mar 25 13:01:57 +0000 2019,18,1
+32,"The last date for submitting a solution for the @midasIIITD internship task is 26th March midnight. We will not accept solutions submitted after the deadline. 
+Thus, if you have not submitted your solution yet then kindly do so before the deadline. 
+#Summer #Research #Internship",Sun Mar 24 18:44:01 +0000 2019,8,3
+33,RT @IIITDelhi: @IIITDelhi invites application from Foreign Nationals/PIOs/NRIs/OCIs for admission to its https://t.co/u6kIuhIrGM and https:…,Sun Mar 24 18:26:02 +0000 2019,0,4
+34,"One more week is left to submit the workshop proposal to @IEEEBigMM19. 
+Looking forward to your submission. For any query, contact workshop co-chair Dr. Chiranjoy Chattopadhyay @cchatto or TPC co-chair @RatnRajiv",Sun Mar 24 11:34:27 +0000 2019,4,0
+35,RT @IEEEBigMM19: We are honored to have Dr. Chang Wen Chen (Chinese University Hong Kong @CUHKofficial ) and Dr. Roger Zimmermann (National…,Sun Mar 24 06:23:37 +0000 2019,0,5
+36,"RT @IEEEBigMM19: Distinguished researchers Dr. Rajiv Ratn Shah @RatnRajiv (@IIITDelhi , @midasIIITD ), Dr. Jianquan Liu (NEC Japan) and Dr.…",Sun Mar 24 06:23:14 +0000 2019,0,3
+37,"@IEEEBigMM19 is also available on Facebook now. 
+LIKE its Facebook page https://t.co/B3Q0zmmzXb  to get the regular updates. 
+Check more details at https://t.co/w9ZymoPisk 
+
+#IEEE #BigMM19 #Big #Multimedia #Singapore",Wed Mar 20 08:19:24 +0000 2019,1,1
+38,"RT @IEEEBigMM19: BigMM 2019 : IEEE BigMM 2019 – Call for Workshop Proposals  
+
+https://t.co/I4vqf8FE6K …  
+When: Sep 11, 2019 - Sep 13, 201…",Wed Mar 20 02:40:07 +0000 2019,0,5
+39,"BigMM 2019 : IEEE BigMM 2019 – Call for Workshop Proposals
+
+https://t.co/oUq2G0UgKN
+
+When: Sep 11, 2019 - Sep 13, 2019
+Where: Singapore
+Submission Deadline: Apr 1, 2019
+Notification Due: Apr 10, 2019
+
+#IEEE #BigMM #Workshop #Proposal #Singapore #Multimedia",Mon Mar 18 02:27:47 +0000 2019,6,3
+40,"Congratulations @midasIIITD team, Rohan, Pradyumn, Ramit, @debanjanbhucs, @MADAIguy and @RatnRajiv for getting their paper titled, ""SNAP-BATNET: Cascading Author Profiling and Social Network Graphs for Suicide Ideation Detection on Social Media"", accepted at @NAACLHLT SRW.",Sun Mar 17 14:22:04 +0000 2019,15,4
+41,"We have emailed the task details to all shortlisted candidates for @midasIIITD internship. Kindly check the same. 
+
+If you are one of the shortlisted candidates and have not received the email then check your SPAM first before approaching. 
+
+#MIDAS #Summer #Research #Internship",Sat Mar 16 14:06:56 +0000 2019,7,0
+42,"IEEE BigMM 2019 - Call for Workshop Proposals. 
+
+Contact @midasIIITD @RatnRajiv @debanjanbhucs if you have any query. 
+
+Deadlines: 
+- Proposals due: April 1, 2019
+- Acceptance notification: April 10, 2019
+
+Further information:
+- Webpage: https://t.co/5XX5Wyxp5T
+
+#IEEE #BigMM19",Sat Mar 16 09:20:29 +0000 2019,2,1
+43,"Congratulations! Arijit, Ramit, @debanjanbhucs @RatnRajiv for your @NAACLHLT  @naacl SRW 2019 paper, ""Speak Up, Fight Back! Detection of Social Media Disclosures of Sexual Harassment"". 
+
+Check more details at https://t.co/i6eAHg7gcN
+
+#MeToo #Student #Research  #Paper #NAACL",Sat Mar 16 09:14:58 +0000 2019,7,2
+44,We will be releasing a very interesting task to shortlisted candidates for the internship at @midasIIITD today. You will be having 10 days to solve the same. You will get a detailed email on the task and submission instruction today. Looking forward to your out of box solution.,Sat Mar 16 05:13:14 +0000 2019,7,2
+45,"RT @hcdiiitd: Last day to register for #PortfolioCreationinDesign Workshop Indraprastha Institute of Information Technology, Delhi on 15th…",Wed Mar 13 17:09:44 +0000 2019,0,2
+46,"@ACMMM19 @sigmm @TheOfficialACM @acmmmsys @ACMTVX @ACMICMR @euromm @Benoit_Huet @RatnRajiv @kelkalot 
+We need to clearly mention abstract and final submission deadlines at https://t.co/U7DTNNyw87
+
+Currently, we have just mentioned 1st April as the regular paper submission deadline. Kindly update. 
+
+#ACMMM19 #Nice #Multimedia https://t.co/ocOCrlFHLH",Wed Mar 13 04:11:24 +0000 2019,1,0
+47,RT @ACMMM19: The paper deadline is approaching. 1 April abstract is due. Authors will have until 8 April to upload the final PDF version of…,Wed Mar 13 04:06:04 +0000 2019,0,13
+48,RT @kaggle: Bookmark this amazing library of image augmentations 😵 by #Kaggle Masters @AlBuslaev @creaf @viglovikov and @cvtalks | https://…,Tue Mar 12 17:43:44 +0000 2019,0,68
+49,"Awesome members of our @midasIIITD team who are working on Humonics projects. Great to have you on our team. 
+
+#team #research #AI #ML #projects https://t.co/lN7hItwPO9",Tue Mar 12 14:37:55 +0000 2019,16,4
+50,"@saanidhi @ACMMM19 Before Friday, 15th March.",Mon Mar 11 14:58:30 +0000 2019,0,0
+51,"We are glad to inform that Adobe is launching Women’s day Tech-Challenge to hire female engineers from 2019 Batch under our #SheCodes initiative. 
+Please register here for participating in the challenge at https://t.co/DjkKCJHDBC
+
+Check full details at https://t.co/5ArLu3icva",Mon Mar 11 12:02:42 +0000 2019,4,0
+52,"We will email tasks to all shortlisted candidates for an internship at @midasIIITD by Friday, 15th March. If you are shortlisted and did not hear from us by that time then kindly drop an email to us. 
+
+Looking forward to working with you.
+
+#research #Internship #AI @ACMMM19",Mon Mar 11 11:54:38 +0000 2019,3,0
+53,"@ACMMM19 @ACM_MM2018 @acmmm17 @sigmm @ACM Less than three weeks are left for @ACMMM19 submission. 
+Looking forward to your contribution to #ACMMM and see you in Nice, France. 
+@midasIIITD @iiit_hyderabad @iitdelhi @abhinavdhall @iitmadras @iiscbangalore @IITKanpur @iitbombay @iitkharagpur @IITJodhpur @iitropar @IIITDelhi",Mon Mar 11 06:22:12 +0000 2019,1,1
+54,"RT @kdnuggets: Face Recognition using One-Shot Learning – #DeepLearning
+using DL architecture that works great with one-shot learning calle…",Mon Mar 11 06:17:20 +0000 2019,0,64
+55,@AvinashSwamina2 @IIITDelhi No. They will be given tasks along with students who will be selected in the second round.,Fri Mar 08 13:22:07 +0000 2019,1,0
+56,"We are in the process of finalizing the shortlisted candidates for internship at @midasIIITD which we have received in the second round.
+We will assign tasks to all shortlisted candidates around early next week. We are also delaying the task since DTU has mid-sem until 15 March.",Fri Mar 08 13:15:34 +0000 2019,8,4
+57,@ylecun @NilayShri @the_dhumketu @debanjanbhucs will it be useful?,Wed Mar 06 13:44:11 +0000 2019,3,0
