@@ -23,7 +23,7 @@ tweets = item.statuses_count
 
 tweet_count = 0
 tweets = []
-end_date = datetime.utcnow() - timedelta(days=30)
+end_date = datetime.utcnow() - timedelta(days=1000)
 for status in Cursor(auth_api.user_timeline, screen_name='@midasIIITD', tweet_mode="extended", id=target).items():
 	tweet_count+=1
 	tweets.append(status._json)
