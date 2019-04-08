@@ -14,21 +14,19 @@ with jsonlines.open('temp.jsonl', mode='r') as reader:
 		tweets.append(obj)
 
 tweets_data = pd.DataFrame(tweets)
-"""
-print(tweets_data.head())
-print(tweets_data.columns)
-for i in tweets_data.columns:
-	print(tweets_data[i][9])
 
-a = tweets_data['entities'][31]
-print(a['media'])
-"""
 actual = pd.DataFrame()
 actual['text'] = tweets_data['full_text']
 actual['date'] = tweets_data['created_at']
 actual['favorite_count'] = tweets_data['favorite_count']
 actual['retweets'] = tweets_data['retweet_count']
-#actual['images']
+#actual['images'] = len(tweets_data['extended_entities']['media'])
+actual['images'] = 0
+for i in range(len(tweets)):
+	try:
+		actual['images'][i] = len(tweets_data['extended_entities'][i]['media'])
+	except Exception as e:
+		actual['images'][i] = 0
 
 print(actual)
 
