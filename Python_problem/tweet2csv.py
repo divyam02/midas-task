@@ -3,6 +3,8 @@ import jsonlines
 import json
 """
 Pending:
+
+Done:
 	1. Add image count
 		@Note: Retweet image are not to be included!
 		Look in entities->media only.
